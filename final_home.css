@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+}
+.topnav a{
+    text-decoration: none;
+    color: cornsilk;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: calibri;
+    font-size: 25px;
+}
+.topnav a:hover{
+    background-color: rgb(43, 3, 95);
+    color: gold;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.topnav{
+    background-color: rgb(39, 10, 10);
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+footer{
+    background-color: rgb(2, 2, 54);
+    color: rgb(248, 231, 231);
+    font-size: 22px;
+    font-family: courier new;
+    text-align: center;
+}
+.active{
+    background-color: rgb(209, 12, 12);
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
